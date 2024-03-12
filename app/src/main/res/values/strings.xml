@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeahterAPIDemo</string>
+    <string name="temperature">Temperature: %1$.2f°C</string>
+
+</resources>
